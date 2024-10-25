@@ -2,6 +2,9 @@
 # About Me
 Hi, I'm Lauren Furman. I'm a Senior Business Analyst with skills in technology with a specialty in health care.
 
+# Work info
+Accenture since 2015
+
 ## Skills/Proficiencies
 - Data analysis
 - BI tools
