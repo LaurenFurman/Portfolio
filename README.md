@@ -16,4 +16,5 @@ Hi, I'm Lauren Furman. I'm a Senior Business Analyst with skills in technology w
 
 # Projects
 ## Project 1
-TBC
+![image](https://github.com/user-attachments/assets/7afd4ffa-5ac1-4f53-8a72-ac5087e1b4f8)
+
